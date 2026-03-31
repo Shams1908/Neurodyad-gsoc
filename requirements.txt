@@ -1,0 +1,6 @@
+cebra
+mne
+scikit-learn
+numpy
+matplotlib
+pandas
